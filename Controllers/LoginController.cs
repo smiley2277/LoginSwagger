@@ -62,5 +62,16 @@ namespace EYPractice
             return result;
             
         }
+        [HttpGet("Try")]
+        public string Try(){ 
+            string result = "";
+            try{
+                result = "Function normally";
+            }
+            catch(Exception e){
+                result = e.Message;
+            }
+            return result;
+        }
     }
 }

@@ -4,7 +4,6 @@
 /Users/smiley/EYPractice/bin/Debug/net5.0/EYPractice.runtimeconfig.json
 /Users/smiley/EYPractice/bin/Debug/net5.0/EYPractice.runtimeconfig.dev.json
 /Users/smiley/EYPractice/bin/Debug/net5.0/EYPractice.dll
-/Users/smiley/EYPractice/bin/Debug/net5.0/ref/EYPractice.dll
 /Users/smiley/EYPractice/bin/Debug/net5.0/EYPractice.pdb
 /Users/smiley/EYPractice/bin/Debug/net5.0/Humanizer.dll
 /Users/smiley/EYPractice/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
@@ -146,7 +145,6 @@
 /Users/smiley/EYPractice/obj/Debug/net5.0/EYPractice.MvcApplicationPartsAssemblyInfo.cs
 /Users/smiley/EYPractice/obj/Debug/net5.0/EYPractice.MvcApplicationPartsAssemblyInfo.cache
 /Users/smiley/EYPractice/obj/Debug/net5.0/staticwebassets/EYPractice.StaticWebAssets.Manifest.cache
-/Users/smiley/EYPractice/obj/Debug/net5.0/staticwebassets/EYPractice.StaticWebAssets.xml
 /Users/smiley/EYPractice/obj/Debug/net5.0/scopedcss/bundle/EYPractice.styles.css
 /Users/smiley/EYPractice/obj/Debug/net5.0/EYPractice.RazorTargetAssemblyInfo.cache
 /Users/smiley/EYPractice/obj/Debug/net5.0/EYPractice.csproj.CopyComplete
@@ -154,3 +152,6 @@
 /Users/smiley/EYPractice/obj/Debug/net5.0/ref/EYPractice.dll
 /Users/smiley/EYPractice/obj/Debug/net5.0/EYPractice.pdb
 /Users/smiley/EYPractice/obj/Debug/net5.0/EYPractice.genruntimeconfig.cache
+/Users/smiley/EYPractice/bin/Debug/net5.0/EYPractice.StaticWebAssets.xml
+/Users/smiley/EYPractice/bin/Debug/net5.0/EYPractice
+/Users/smiley/EYPractice/obj/Debug/net5.0/refint/EYPractice.dll

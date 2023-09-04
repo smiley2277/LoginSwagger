@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/109223f5-571b-4127-92b3-d36817886b5e/resourceGroups/DefaultResourceGroup-EA/providers/Microsoft.Web/sites/loginTest1",
+    "appService.deploySubpath": "bin/Publish"
+}
